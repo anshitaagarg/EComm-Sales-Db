@@ -3,7 +3,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue?logo=mysql)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Project Overview
 
@@ -76,9 +75,9 @@ E-Commerce-Sales-Database/
 ├── README.md
 │
 ├── sql/
-│   ├── 01_schema.sql
-│   ├── 02_insert_data.sql
-│   └── 03_queries.sql
+│   ├── schema.sql
+│   ├── insert_data.sql
+│   └── queries.sql
 │
 ├── outputs/
 │   ├── Section_A.md
@@ -112,19 +111,19 @@ USE shopease_db;
 Run the following files in order:
 
 ```
-sql/01_schema.sql
+sql/schema.sql
 ```
 
 ↓
 
 ```
-sql/02_insert_data.sql
+sql/insert_data.sql
 ```
 
 ↓
 
 ```
-sql/03_queries.sql
+sql/queries.sql
 ```
 
 ---
